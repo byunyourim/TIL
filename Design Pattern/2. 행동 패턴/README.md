@@ -5,14 +5,15 @@
 한 객체가 수행할 수 없는 작업을 여러 개의 객체로 분배하여 객체 사이의 결합도의 최소화에 중점을 둔다.
 주로 클래스에 적용할지, 객체에 적용할지에 따라 구분된다.
 
-- Template Method Pattern
-- State Pattern
-- Observer Pattern
+- Chain of Responsibility Pattern
 - Command Pattern
 - Interpreter Pattern
 - Iterator Pattern
+- Observer Pattern
 - Strategy Pattern
+- Template Method Pattern
 - Visitor Pattern
 - Mediator Pattern
+- State Pattern
 - Memento Pattern
-- Chain of Responsibility Pattern
+
