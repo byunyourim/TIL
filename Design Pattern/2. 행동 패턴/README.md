@@ -6,7 +6,6 @@
 주로 클래스에 적용할지, 객체에 적용할지에 따라 구분된다.
 
 - Template Method Pattern
-- Singleton Pattern
 - State Pattern
 - Observer Pattern
 - Command Pattern
