@@ -1,0 +1,28 @@
+
+### FIFO
+<img width="677" alt="image" src="https://github.com/user-attachments/assets/5a26e898-c1f3-4531-b034-eea022055d60">
+
+삽입과 삭제가 양방향에서 이루어지는 구조  
+
+- add()/ offer() : 실패시 Exception/ 실패시 false
+- remove/ poll() : 실패시 Exception/ 실패시 false
+- element()/ peek() : 실패시 Exception/ 실패시 false (front 값 리턴)
+- isEmpty()
+
+
+- 너비 우선 탐색(BFS)
+- 캐시구현
+- 우선순위가 같은 작업 예약
+- 콜센터 고객 대기
+- 프린터 출력
+- 프로세스 관리
+
+
+### 우선 순위 큐
+들어간 순서와 관계없이 우선순위가 높은 데이터가 먼저 나오는 자료구조  
+
+큐의 설정에 따라 front에 항상 최댓값 또는 최솟값이 위치한다.  
+일반적으로 힙(완전 이진트리의 형태)을 이용해 구현  
+
+
+
