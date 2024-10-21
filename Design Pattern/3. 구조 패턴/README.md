@@ -16,12 +16,12 @@
 <br>
 
 ### 종류
-- Adapter Pattern
+- Adapter Pattern *
 - Bridge Pattern
-- Composite Pattern
-- Decorator Pattern
-- Facade Pattern
+- Composite Pattern *
+- Decorator Pattern *
+- Facade Pattern *
 - Flyweight Pattern
-- Proxy Pttern
+- Proxy Pttern *
 
   
