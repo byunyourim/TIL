@@ -6,14 +6,14 @@
 주로 클래스에 적용할지, 객체에 적용할지에 따라 구분된다.
 
 - Chain of Responsibility Pattern
-- Command Pattern
-- Interpreter Pattern
-- Iterator Pattern
-- Observer Pattern
-- Strategy Pattern
-- Template Method Pattern
-- Visitor Pattern
-- Mediator Pattern
-- State Pattern
-- Memento Pattern
+- Command Pattern *
+- Interpreter Pattern 
+- Iterator Pattern *
+- Observer Pattern *
+- Strategy Pattern *
+- Template Method Pattern *
+- Visitor Pattern 
+- Mediator Pattern 
+- State Pattern * 
+- Memento Pattern  
 
