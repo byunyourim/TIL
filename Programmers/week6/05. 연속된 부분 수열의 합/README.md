@@ -16,10 +16,26 @@
 
 ## 의사코드
 ```
-for sequence를 돌며 값들을 더한다
-  if : 더한 값 >  sum ==> 맨 앞의 값 제거
-  if : 더한 값 < sum ==> 값 추가ㅏ
-  if : 더한 값 == sum ==> 처음 인덱스와, 마지막 인덱스 리턴 
+start = 0, end = 0
+current = 0
+minlen = 0
+int res = new int[2];
+
+while (end 가 squence길이보다 작은 동안) {
+    if : currnt  == k {
+        인덱스 범위 확인 후, 제일 작은 경우 result에 값 넣는다.
+    }
+    if : currnt  < k {
+        end ++
+        if (end < seq.len) {
+           현재값 + seq[end]
+        }
+    }
+    if : currnt  > k {
+        현재값 - seq[start]
+        start++
+    }
+}
 ```
 
 
