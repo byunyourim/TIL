@@ -20,6 +20,10 @@ https://school.programmers.co.kr/learn/courses/30/lessons/12913
 ```
 첫 행은 land행 그대로 세팅
 
+for (land의 행만큼 반복): 
+  그 전행의 값과 더했을때 가장 큰 수 세팅
+  dp[현재행][0] =land[현재행][0] + max(dp[이전행][1], dp[이전행][2], dp[이전행][3])
+  다른 열도 동일하게
 ```
 
 
