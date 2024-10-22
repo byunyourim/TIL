@@ -18,6 +18,8 @@ https://school.programmers.co.kr/learn/courses/30/lessons/12936
 ## 알고리즘
 순열과, 팩토리얼
 
+- n명의 나열하는 방법 n!
+
 
 
 
